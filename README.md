@@ -1,4 +1,4 @@
-#useful-shortcuts
+# useful-shortcuts
 This AHK script is a collection of useful shortcuts for Windows. It is based on the [AutoHotKey](https://www.autohotkey.com/) scripting language. 
 
 ## Installation
