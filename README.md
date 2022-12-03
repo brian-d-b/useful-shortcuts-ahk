@@ -18,6 +18,7 @@ Google Operators
 - **]ga** - **after:2022-01-01**
 - **]gr** - **site:reddit.com**
 - **]gm** - **site:learn.microsoft.com**
+
 Websites
 - **]p** - **https://portal.office.com**
 - **]a** - **https://admin.microsoft.com**
